@@ -2,21 +2,18 @@
 
 ###
 
-
-
 ###
 
-
-💻 **AP Degree in Computer Science** | Passionate about **Backend & Fullstack Development**  
+💻 **AP Degree in Computer Science** | Passionate about **Backend & Fullstack Development**
 
 🚀 I love building **scalable backend systems** and integrating fullstack technologies.  
 🎯 Currently working on **[https://github.com/Nazarenee/CodeHub]**  
-💡 Exploring **Next.js, TypeScript, Spring Boot, APIs, and Databases**  
+💡 Exploring **Next.js, TypeScript, Spring Boot, APIs, and Databases**
 
-### 🔹 **Tech Stack & Interests**  
+### 🔹 **Tech Stack & Interests**
+
 💾 Java | Spring Boot | JPA | REST APIs | SQL | Docker  
-🌍 Fullstack | TypeScript | React.js | Next.js | API Development | Database Optimization  
-
+🌍 Fullstack | TypeScript | React.js | Next.js | API Development | Database Optimization
 
 </p>
 
@@ -45,9 +42,10 @@
   </a>
 </div>
 
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
-
-
