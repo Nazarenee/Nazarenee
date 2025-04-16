@@ -7,7 +7,6 @@
 💻 **AP Degree in Computer Science** | Passionate about **Backend & Fullstack Development**
 
 🚀 I love building **scalable backend systems** and integrating fullstack technologies.  
-🎯 Currently working on **[https://github.com/Nazarenee/CodeHub]**  
 💡 Exploring **Next.js, TypeScript, Spring Boot, APIs, and Databases**
 
 ### 🔹 **Tech Stack & Interests**
